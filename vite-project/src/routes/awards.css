@@ -1,0 +1,13 @@
+#h2Award {
+    width : 100vw;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pAward {
+    width : 100vw;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}

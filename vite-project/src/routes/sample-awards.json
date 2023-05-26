@@ -1,0 +1,29 @@
+[
+    {   "awardName" : "Participation",
+        "points" : 10
+    },
+
+    {   "awardName" : "Daily Attendance",
+        "points" : 10
+    },
+
+    {   "awardName" : "Class Helper",
+        "points" : 50
+    },
+
+    {   "awardName" : "Teamworker",
+        "points" : 50
+    },
+
+    {   "awardName" : "Super Helper",
+        "points" : 50
+    },
+
+    {   "awardName" : "Organized Desk",
+        "points" : 50
+    },
+
+    {   "awardName" : "Teacher's Pet",
+        "points" : 50
+    }
+]
