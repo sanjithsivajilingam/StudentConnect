@@ -1,6 +1,7 @@
 # StudentConnect
 ## About
 StudentConnect was created by a team of four peers to address the impact of COVID-19 on academic setbacks and foster communication among isolated students. The website helps students regain academic momentum and facilitates peer-to-peer interaction through progress tracking, earning points, and redeeming them for prizes.
+This project was created during Devpost's Treasure Hacks 3.0 hackathon. https://devpost.com/software/studentconnect-j9arib
 ## Screenshots
 | Home Page |
 |   :---:  |
